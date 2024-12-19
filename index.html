@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Hades Analysis</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Matt Beirne">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- D3 -->    
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script type="text/javascript" src="https://cdn.rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
+        <!-- Plotly -->
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <!-- static -->
+        <link rel="stylesheet" type="text/css" href="./static/css/style.css">
+        <script src="./static/js/app.js"></script>
+        <script src="./static/js/test.js"></script>
+        <!-- <script type="text/javascript" src="../Resources/output.json"></script> -->
+    </head>
+    <body>
+        <div class="container">
+            <ul class="container">
+                <li id="homeTab"><a class="tabs" href="#">home</a></li>
+                <li id="compareTab"><a class="tabs" href="#">compare</a></li>
+            </ul>
+        </div>
+        <!-- Home tab -->
+        <div id="home">
+            <div class="container">
+                <ul class="container">
+                    <li id = 'general-tab-button'><a class="tabs" href="#">general </a></li>
+                    <li id = "runs-tab-button"><a class="tabs" href="#">run history</a></li>
+                    <li id = "gods-tab-button"><a class="tabs" href="#">gods</a></li>
+                </ul>
+            </div>
+            <div id = "generalHome">
+                <div class="gen general">
+                    <h2>Welcome!</h2>
+                    <p>
+                        Here is an analysis of my escape attempts in Hades. Each tab holds more information.
+                        If you want to view your own attempts, hit the compare tab at the top.
+                    </p>
+                </div>
+                <div class="gen">
+                    <!-- <h3>General Info</h3> -->
+                    <div class="general">
+                        <div id="attempts">Attempts: </div>
+                        <div id="firstClear">First Clear: Attempt #</div>
+                        <div id="clears">Total Clears: </div>
+                        <div id="highestHeatAttempt">Highest Heat Attempt: </div>
+                        <div id="highestHeatClear">Highest Heat Clear: </div>
+                        <div id="favWeapon">Most Used Weapon: </div>
+                        <div id="favGod">Most Boons Used from (god): </div>
+                    </div>
+                </div> 
+                <div class="gen">
+                    <!-- <h3>Table</h3>
+                    <p>Here is a table of all the raw data from the Hades output file.</p> -->
+                    <div class="table">
+                                <table  id="run-data">
+                                    <thead></thead>
+                                </table>
+                    </div>
+                </div>
+            </div>
+            <div id = "runsHome">
+                <div class="runs">
+                    <div class ="plotly" id="plot"></div>
+                    <div class ="plotly" id="plot3"></div> 
+                    <div class ="plotly" id="plot6"></div> 
+                    <!-- <div class ="plotly" id="plot2"></div>   -->
+                </div>
+            </div>
+            <div id = "godsHome">
+                <div class="gods">
+                    <div class="god" id="plot2"></div>
+                    <div class="god" id="godName"><select id="godSelect" onchange="updateGodInfo()"></select></div>
+                    <div class="god" id="godInfo"></div>
+                </div>    
+            </div>
+        </div>
+        <!-- Compare tab -->
+        <div id="compare">
+            <div class="container">
+                <ul class="container">
+                    <li id = 'general-compare-button'><a class="tabs" href="#">general </a></li>
+                    <li id = "runs-compare-button"><a class="tabs" href="#">run history</a></li>
+                    <li id = "gods-compare-button"><a class="tabs" href="#">gods</a></li>
+                </ul>
+            </div>
+            <div id = "generalCompare">
+                <div class="gen general">
+                    <h2>How do we compare?</h2>
+                    <p> 
+                        If you would like to download your own attempts, you can us this 
+                        <a href='https://www.nexusmods.com/hades/mods/54' target="_blank"> NexusMod by snakesorsomething</a>.
+                   
+                        Once you have your output.json file downloaded, you can add the file here and click the submit button to view your data.
+                    </p>
+                    <input type="file" id = "output_file"/>
+                    <button type="button" id="submit" onclick = "uploadFile()">
+                        Submit
+                    </button>
+                </div>
+                <div class="gen">
+                    <div class="general">
+                        <div id="attemptsCompare">Attempts: </div>
+                        <div id="firstClearCompare">First Clear: Attempt #</div>
+                        <div id="clearsCompare">Total Clears: </div>
+                        <div id="highestHeatAttemptCompare">Highest Heat Attempt: </div>
+                        <div id="highestHeatClearCompare">Highest Heat Clear: </div>
+                        <div id="favWeaponCompare">Most Used Weapon: </div>
+                        <div id="favGodCompare">Most Boons Used from (god): </div>
+                    </div>
+                </div>
+                <div class="gen">
+                    <div class="table">
+                                <table  id="run-dataCompare">
+                                    <thead></thead>
+                                </table>
+                    </div>
+                </div>  
+                    
+            </div>
+            <div id = "runsCompare">
+                <div class="runs">
+                    <div class ="plotly" id="plotCompare"></div>
+                    <div class ="plotly" id="plot3Compare"></div> 
+                    <div class ="plotly" id="plot6Compare"></div> 
+                    <!-- <div class ="plotly" id="plot2Compare"></div>   -->
+                </div>
+            </div>
+            <div id = "godsCompare">
+                <div class="gods">
+                    <div class="god" id="plot2Compare"></div>
+                    <div class="god" id="godNameCompare"><select id="godSelectCompare" onchange="updateGodInfoCompare()"></select></div>
+                    <div class="god" id="godInfoCompare"></div>
+                </div>    
+            </div>
+        </div>
+    </body>
+</html>

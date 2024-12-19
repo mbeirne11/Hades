@@ -1,0 +1,2312 @@
+{
+    "SeasonalItem": {
+        "god": "nan",
+        "boon": "nan",
+        "status": "Regular"
+    },
+    "SeasonalCosmetic": {
+        "god": "nan",
+        "boon": "nan",
+        "status": "Regular"
+    },
+    "UnusedWeaponBonusTrait": {
+        "god": "nan",
+        "boon": "DarkThirst",
+        "status": "Regular"
+    },
+    "UnusedWeaponBonusTraitAddGems": {
+        "god": "nan",
+        "boon": "DarkerThirst",
+        "status": "Regular"
+    },
+    "FallbackMoneyDrop": {
+        "god": "nan",
+        "boon": "SpareWealth",
+        "status": "Regular"
+    },
+    "MoneyDrop": {
+        "god": "nan",
+        "boon": "VastRiches",
+        "status": "Regular"
+    },
+    "ImpactBoltTrait": {
+        "god": "Duo",
+        "boon": "SeaStorm",
+        "status": "Regular"
+    },
+    "ReboundingAthenaCastTrait": {
+        "god": "Duo",
+        "boon": "LightningPhalanx",
+        "status": "Regular"
+    },
+    "AutoRetaliateTrait": {
+        "god": "Duo",
+        "boon": "VengefulMood",
+        "status": "Regular"
+    },
+    "LightningCloudTrait": {
+        "god": "Duo",
+        "boon": "ScintillatingFeast",
+        "status": "Regular"
+    },
+    "AmmoBoltTrait": {
+        "god": "Duo",
+        "boon": "LightningRod",
+        "status": "Regular"
+    },
+    "RegeneratingCappedSuperTrait": {
+        "god": "Duo",
+        "boon": "SmolderingAir",
+        "status": "Regular"
+    },
+    "JoltDurationTrait": {
+        "god": "Duo",
+        "boon": "ColdFusion",
+        "status": "Regular"
+    },
+    "StatusImmunityTrait": {
+        "god": "Duo",
+        "boon": "UnshakableMettle",
+        "status": "Regular"
+    },
+    "PoseidonAresProjectileTrait": {
+        "god": "Duo",
+        "boon": "CurseofDrowning",
+        "status": "Regular"
+    },
+    "ArtemisBonusProjectileTrait": {
+        "god": "Duo",
+        "boon": "MirageShot",
+        "status": "Regular"
+    },
+    "RaritySuperBoost": {
+        "god": "Duo",
+        "boon": "ExclusiveAccess",
+        "status": "Regular"
+    },
+    "BlizzardOrbTrait": {
+        "god": "Duo",
+        "boon": "BlizzardShot",
+        "status": "Regular"
+    },
+    "CastBackstabTrait,": {
+        "god": "Duo",
+        "boon": "PartingShot",
+        "status": "Regular"
+    },
+    "ArtemisReflectBuffTrait": {
+        "god": "Duo",
+        "boon": "DeadlyReversal",
+        "status": "Regular"
+    },
+    "TriggerCurseTrait": {
+        "god": "Duo",
+        "boon": "MercifulEnd",
+        "status": "Regular"
+    },
+    "SlowProjectileTrait": {
+        "god": "Duo",
+        "boon": "CalculatedRisk",
+        "status": "Regular"
+    },
+    "NoLastStandRegenerationTrait": {
+        "god": "Duo",
+        "boon": "StubbornRoots",
+        "status": "Regular"
+    },
+    "PoisonTickRateTrait": {
+        "god": "Duo",
+        "boon": "CurseofNausea",
+        "status": "Regular"
+    },
+    "StationaryRiftTrait": {
+        "god": "Duo",
+        "boon": "FreezingVortex",
+        "status": "Regular"
+    },
+    "AresHomingTrait": {
+        "god": "Duo",
+        "boon": "HuntingBlades",
+        "status": "Regular"
+    },
+    "CurseSickTrait": {
+        "god": "Duo",
+        "boon": "CurseofLonging",
+        "status": "Regular"
+    },
+    "DionysusAphroditeStackIncreaseTrait": {
+        "god": "Duo",
+        "boon": "LowTolerance",
+        "status": "Regular"
+    },
+    "SelfLaserTrait": {
+        "god": "Duo",
+        "boon": "ColdEmbrace",
+        "status": "Regular"
+    },
+    "HeartsickCritDamageTrait": {
+        "god": "Duo",
+        "boon": "HeartRend",
+        "status": "Regular"
+    },
+    "ImprovedPomTrait": {
+        "god": "Duo",
+        "boon": "SweetNectar",
+        "status": "Regular"
+    },
+    "HomingLaserTrait": {
+        "god": "Duo",
+        "boon": "CrystalClarity",
+        "status": "Regular"
+    },
+    "PoisonCritVulnerabilityTrait": {
+        "god": "Duo",
+        "boon": "SplittingHeadache",
+        "status": "Regular"
+    },
+    "IceStrikeArrayTrait": {
+        "god": "Duo",
+        "boon": "IceWine",
+        "status": "Regular"
+    },
+    "ZeusUpgrade": {
+        "god": "Zeus",
+        "boon": "Zeus",
+        "status": "Regular"
+    },
+    "ZeusWeaponTrait": {
+        "god": "Zeus",
+        "boon": "LightningStrike",
+        "status": "Regular"
+    },
+    "ZeusSecondaryTrait": {
+        "god": "Zeus",
+        "boon": "ThunderFlourish",
+        "status": "Regular"
+    },
+    "ZeusSecondaryTrait_Initial": {
+        "god": "Zeus",
+        "boon": "ThunderFlourish",
+        "status": "Regular"
+    },
+    "ZeusRangedTrait": {
+        "god": "Zeus",
+        "boon": "ElectricShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_ZeusRangedTrait": {
+        "god": "Zeus",
+        "boon": "ThunderFlare",
+        "status": "Regular"
+    },
+    "ZeusRushTrait": {
+        "god": "Zeus",
+        "boon": "ThunderDash",
+        "status": "Regular"
+    },
+    "RetaliateWeaponTrait": {
+        "god": "Zeus",
+        "boon": "Heaven'sVengeance",
+        "status": "Regular"
+    },
+    "ZeusBonusBounceTrait_Initial": {
+        "god": "Zeus",
+        "boon": "StormLightning",
+        "status": "Regular"
+    },
+    "ZeusBonusBounceTrait": {
+        "god": "Zeus",
+        "boon": "StormLightning",
+        "status": "Regular"
+    },
+    "ZeusBoltAoETrait": {
+        "god": "Zeus",
+        "boon": "HighVoltage",
+        "status": "Regular"
+    },
+    "ZeusBonusBoltTrait": {
+        "god": "Zeus",
+        "boon": "DoubleStrike",
+        "status": "Regular"
+    },
+    "SuperGenerationTrait": {
+        "god": "Zeus",
+        "boon": "CloudedJudgment",
+        "status": "Regular"
+    },
+    "ZeusLightningDebuff": {
+        "god": "Zeus",
+        "boon": "StaticDischarge",
+        "status": "Regular"
+    },
+    "OnWrathDamageBuffTrait": {
+        "god": "Zeus",
+        "boon": "BillowingStrength",
+        "status": "Regular"
+    },
+    "PerfectDashBoltTrait,": {
+        "god": "Zeus",
+        "boon": "LightningReflexes",
+        "status": "Regular"
+    },
+    "PerfectDashBoltTraitActivated": {
+        "god": "Zeus",
+        "boon": "LightningReflexes!",
+        "status": "Regular"
+    },
+    "ZeusShoutTrait": {
+        "god": "Zeus",
+        "boon": "Zeus'Aid",
+        "status": "Regular"
+    },
+    "ZeusChargedBoltTrait": {
+        "god": "Zeus",
+        "boon": "SplittingBolt",
+        "status": "Legendary"
+    },
+    "AthenaUpgrade": {
+        "god": "Athena",
+        "boon": "Athena",
+        "status": "Regular"
+    },
+    "AthenaWeaponTrait": {
+        "god": "Athena",
+        "boon": "DivineStrike",
+        "status": "Regular"
+    },
+    "AthenaSecondaryTrait": {
+        "god": "Athena",
+        "boon": "DivineFlourish",
+        "status": "Regular"
+    },
+    "AthenaRangedTrait": {
+        "god": "Athena",
+        "boon": "PhalanxShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_AthenaRangedTrait": {
+        "god": "Athena",
+        "boon": "PhalanxFlare",
+        "status": "Regular"
+    },
+    "AthenaRushTrait": {
+        "god": "Athena",
+        "boon": "DivineDash",
+        "status": "Regular"
+    },
+    "AthenaShieldTrait": {
+        "god": "Athena",
+        "boon": "BrilliantRiposte",
+        "status": "Regular"
+    },
+    "TrapDamageTrait": {
+        "god": "Athena",
+        "boon": "SureFooting",
+        "status": "Regular"
+    },
+    "EnemyDamageTrait": {
+        "god": "Athena",
+        "boon": "BronzeSkin",
+        "status": "Regular"
+    },
+    "AthenaRetaliateTrait": {
+        "god": "Athena",
+        "boon": "HolyShield",
+        "status": "Regular"
+    },
+    "LastStandHealTrait": {
+        "god": "Athena",
+        "boon": "LastStand",
+        "status": "Regular"
+    },
+    "LastStandDurationTrait": {
+        "god": "Athena",
+        "boon": "DeathlessStand",
+        "status": "Regular"
+    },
+    "PreloadSuperGenerationTrait": {
+        "god": "Athena",
+        "boon": "ProudBearing",
+        "status": "Regular"
+    },
+    "AthenaBackstabDebuffTrait": {
+        "god": "Athena",
+        "boon": "BlindingFlash",
+        "status": "Regular"
+    },
+    "AthenaShoutTrait": {
+        "god": "Athena",
+        "boon": "Athena'sAid",
+        "status": "Regular"
+    },
+    "ShieldHitTrait": {
+        "god": "Athena",
+        "boon": "DivineProtection",
+        "status": "Legendary"
+    },
+    "PoseidonUpgrade": {
+        "god": "Poseidon",
+        "boon": "Poseidon",
+        "status": "Regular"
+    },
+    "PoseidonWeaponTrait": {
+        "god": "Poseidon",
+        "boon": "TempestStrike",
+        "status": "Regular"
+    },
+    "PoseidonSecondaryTrait": {
+        "god": "Poseidon",
+        "boon": "TempestFlourish",
+        "status": "Regular"
+    },
+    "PoseidonRushTrait": {
+        "god": "Poseidon",
+        "boon": "TidalDash",
+        "status": "Regular"
+    },
+    "PoseidonRangedTrait": {
+        "god": "Poseidon",
+        "boon": "FloodShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_PoseidonRangedTrait": {
+        "god": "Poseidon",
+        "boon": "FloodFlare",
+        "status": "Regular"
+    },
+    "RandomMinorLootDrop": {
+        "god": "Poseidon",
+        "boon": "SunkenTreasure",
+        "status": "Regular"
+    },
+    "BonusCollisionTrait": {
+        "god": "Poseidon",
+        "boon": "Typhoon'sFury",
+        "status": "Regular"
+    },
+    "SlamExplosionTrait": {
+        "god": "Poseidon",
+        "boon": "BreakingWave",
+        "status": "Regular"
+    },
+    "DefensiveSuperGenerationTrait": {
+        "god": "Poseidon",
+        "boon": "BoilingPoint",
+        "status": "Regular"
+    },
+    "RoomRewardBonusTrait": {
+        "god": "Poseidon",
+        "boon": "Ocean'sBounty",
+        "status": "Regular"
+    },
+    "SlipperyTrait": {
+        "god": "Poseidon",
+        "boon": "RazorShoals",
+        "status": "Regular"
+    },
+    "BossDamageTrait": {
+        "god": "Poseidon",
+        "boon": "WavePounding",
+        "status": "Regular"
+    },
+    "PoseidonShoutDurationTrait,": {
+        "god": "Poseidon",
+        "boon": "RipCurrent",
+        "status": "Regular"
+    },
+    "EncounterStartOffenseBuffTrait,": {
+        "god": "Poseidon",
+        "boon": "HydraulicMight",
+        "status": "Regular"
+    },
+    "PoseidonShoutTrait": {
+        "god": "Poseidon",
+        "boon": "Poseidon'sAid",
+        "status": "Regular"
+    },
+    "DoubleCollisionTrait": {
+        "god": "Poseidon",
+        "boon": "SecondWave",
+        "status": "Legendary"
+    },
+    "FishingTrait": {
+        "god": "Poseidon",
+        "boon": "HugeCatch",
+        "status": "Legendary"
+    },
+    "AresUpgrade": {
+        "god": "Ares",
+        "boon": "Ares",
+        "status": "Regular"
+    },
+    "AresWeaponTrait": {
+        "god": "Ares",
+        "boon": "CurseofAgony",
+        "status": "Regular"
+    },
+    "AresSecondaryTrait": {
+        "god": "Ares",
+        "boon": "CurseofPain",
+        "status": "Regular"
+    },
+    "AresRangedTrait": {
+        "god": "Ares",
+        "boon": "SlicingShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_AresRangedTrait": {
+        "god": "Ares",
+        "boon": "SlicingFlare",
+        "status": "Regular"
+    },
+    "AresRushTrait": {
+        "god": "Ares",
+        "boon": "BladeDash",
+        "status": "Regular"
+    },
+    "IncreasedDamageTrait": {
+        "god": "Ares",
+        "boon": "UrgetoKill",
+        "status": "Regular"
+    },
+    "IncreasedDamageTrait_Initial": {
+        "god": "Ares",
+        "boon": "UrgetoKill",
+        "status": "Regular"
+    },
+    "AresRetaliateTrait": {
+        "god": "Ares",
+        "boon": "CurseofVengeance",
+        "status": "Regular"
+    },
+    "AresAoETrait": {
+        "god": "Ares",
+        "boon": "BlackMetal",
+        "status": "Regular"
+    },
+    "AresDragTrait": {
+        "god": "Ares",
+        "boon": "EngulfingVortex",
+        "status": "Regular"
+    },
+    "AresLoadCurseTrait": {
+        "god": "Ares",
+        "boon": "DireMisfortune",
+        "status": "Regular"
+    },
+    "OnEnemyDeathDamageInstanceBuffTrait": {
+        "god": "Ares",
+        "boon": "BattleRage",
+        "status": "Regular"
+    },
+    "AresLongCurseTrait": {
+        "god": "Ares",
+        "boon": "ImpendingDoom",
+        "status": "Regular"
+    },
+    "LastStandDamageBonusTrait,": {
+        "god": "Ares",
+        "boon": "BloodFrenzy",
+        "status": "Regular"
+    },
+    "AresShoutTrait": {
+        "god": "Ares",
+        "boon": "Ares'Aid",
+        "status": "Regular"
+    },
+    "AresCursedRiftTrait": {
+        "god": "Ares",
+        "boon": "ViciousCycle",
+        "status": "Legendary"
+    },
+    "AphroditeUpgrade": {
+        "god": "Aphrodite",
+        "boon": "Aphrodite",
+        "status": "Regular"
+    },
+    "AphroditeWeaponTrait": {
+        "god": "Aphrodite",
+        "boon": "HeartbreakStrike",
+        "status": "Regular"
+    },
+    "AphroditeSecondaryTrait": {
+        "god": "Aphrodite",
+        "boon": "HeartbreakFlourish",
+        "status": "Regular"
+    },
+    "AphroditeRangedTrait": {
+        "god": "Aphrodite",
+        "boon": "CrushShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_AphroditeRangedTrait": {
+        "god": "Aphrodite",
+        "boon": "PassionFlare",
+        "status": "Regular"
+    },
+    "AphroditeRushTrait": {
+        "god": "Aphrodite",
+        "boon": "PassionDash",
+        "status": "Regular"
+    },
+    "AphroditeDurationTrait": {
+        "god": "Aphrodite",
+        "boon": "EmptyInside",
+        "status": "Regular"
+    },
+    "AphroditePotencyTrait": {
+        "god": "Aphrodite",
+        "boon": "BrokenResolve",
+        "status": "Regular"
+    },
+    "AphroditeDeathTrait": {
+        "god": "Aphrodite",
+        "boon": "DyingLament",
+        "status": "Regular"
+    },
+    "AphroditeRetaliateTrait": {
+        "god": "Aphrodite",
+        "boon": "WaveofDespair",
+        "status": "Regular"
+    },
+    "ProximityArmorTrait": {
+        "god": "Aphrodite",
+        "boon": "DifferentLeague",
+        "status": "Regular"
+    },
+    "AphroditeWeakenTrait": {
+        "god": "Aphrodite",
+        "boon": "SweetSurrender",
+        "status": "Regular"
+    },
+    "HealthRewardBonusTrait": {
+        "god": "Aphrodite",
+        "boon": "LifeAffirmation",
+        "status": "Regular"
+    },
+    "AphroditeRangedBonusTrait,": {
+        "god": "Aphrodite",
+        "boon": "BlownKiss",
+        "status": "Regular"
+    },
+    "AphroditeShoutTrait": {
+        "god": "Aphrodite",
+        "boon": "Aphrodite'sAid",
+        "status": "Regular"
+    },
+    "CharmTrait": {
+        "god": "Aphrodite",
+        "boon": "UnhealthyFixation",
+        "status": "Legendary"
+    },
+    "ArtemisUpgrade": {
+        "god": "Artemis",
+        "boon": "Artemis",
+        "status": "Regular"
+    },
+    "ArtemisWeaponTrait": {
+        "god": "Artemis",
+        "boon": "DeadlyStrike",
+        "status": "Regular"
+    },
+    "ArtemisSecondaryTrait": {
+        "god": "Artemis",
+        "boon": "DeadlyFlourish",
+        "status": "Regular"
+    },
+    "ArtemisRangedTrait": {
+        "god": "Artemis",
+        "boon": "TrueShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_ArtemisRangedTrait": {
+        "god": "Artemis",
+        "boon": "Hunter'sFlare",
+        "status": "Regular"
+    },
+    "ArtemisRushTrait": {
+        "god": "Artemis",
+        "boon": "HunterDash",
+        "status": "Regular"
+    },
+    "ArtemisCriticalTrait": {
+        "god": "Artemis",
+        "boon": "CleanKill",
+        "status": "Regular"
+    },
+    "CritBonusTrait": {
+        "god": "Artemis",
+        "boon": "PressurePoints",
+        "status": "Regular"
+    },
+    "CriticalBufferMultiplierTrait": {
+        "god": "Artemis",
+        "boon": "HideBreaker",
+        "status": "Regular"
+    },
+    "ArtemisAmmoExitTrait": {
+        "god": "Artemis",
+        "boon": "ExitWounds",
+        "status": "Regular"
+    },
+    "CriticalSuperGenerationTrait": {
+        "god": "Artemis",
+        "boon": "HunterInstinct",
+        "status": "Regular"
+    },
+    "ArtemisSupportingFireTrait_Initial": {
+        "god": "Artemis",
+        "boon": "SupportFire",
+        "status": "Regular"
+    },
+    "ArtemisSupportingFireTrait": {
+        "god": "Artemis",
+        "boon": "SupportFire",
+        "status": "Regular"
+    },
+    "CritVulnerabilityTrait": {
+        "god": "Artemis",
+        "boon": "Hunter'sMark",
+        "status": "Regular"
+    },
+    "ArtemisShoutTrait": {
+        "god": "Artemis",
+        "boon": "Artemis'Aid",
+        "status": "Regular"
+    },
+    "MoreAmmoTrait": {
+        "god": "Artemis",
+        "boon": "FullyLoaded",
+        "status": "Legendary"
+    },
+    "DionysusUpgrade": {
+        "god": "Dionysus",
+        "boon": "Dionysus",
+        "status": "Regular"
+    },
+    "DionysusWeaponTrait": {
+        "god": "Dionysus",
+        "boon": "DrunkenStrike",
+        "status": "Regular"
+    },
+    "DionysusSecondaryTrait": {
+        "god": "Dionysus",
+        "boon": "DrunkenFlourish",
+        "status": "Regular"
+    },
+    "DionysusRushTrait": {
+        "god": "Dionysus",
+        "boon": "DrunkenDash",
+        "status": "Regular"
+    },
+    "DionysusRangedTrait": {
+        "god": "Dionysus",
+        "boon": "TrippyShot",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_DionysusRangedTrait": {
+        "god": "Dionysus",
+        "boon": "TrippyFlare",
+        "status": "Regular"
+    },
+    "DionysusSlowTrait": {
+        "god": "Dionysus",
+        "boon": "NumbingSensation",
+        "status": "Regular"
+    },
+    "DionysusSpreadTrait": {
+        "god": "Dionysus",
+        "boon": "PeerPressure",
+        "status": "Regular"
+    },
+    "DionysusDefenseTrait": {
+        "god": "Dionysus",
+        "boon": "HighTolerance",
+        "status": "Regular"
+    },
+    "DoorHealTrait": {
+        "god": "Dionysus",
+        "boon": "AfterParty",
+        "status": "Regular"
+    },
+    "LowHealthDefenseTrait": {
+        "god": "Dionysus",
+        "boon": "PositiveOutlook",
+        "status": "Regular"
+    },
+    "DionysusPoisonPowerTrait": {
+        "god": "Dionysus",
+        "boon": "BadInfluence",
+        "status": "Regular"
+    },
+    "DionysusGiftDrop": {
+        "god": "Dionysus",
+        "boon": "PremiumVintage",
+        "status": "Regular"
+    },
+    "FountainDamageBonusTrait,": {
+        "god": "Dionysus",
+        "boon": "StrongDrink",
+        "status": "Regular"
+    },
+    "FountainDamageText": {
+        "god": "Dionysus",
+        "boon": "{#CombatTextHighlightFormat}StrongDrink{#PreviousFormat}!",
+        "status": "Regular"
+    },
+    "FountainDamageText_Alt": {
+        "god": "Dionysus",
+        "boon": "{#CombatTextHighlightFormat}{$TempTextData.TraitName}{#PreviousFormat}:{$TempTextData.Amount:P}Damage!",
+        "status": "Regular"
+    },
+    "DionysusShoutTrait": {
+        "god": "Dionysus",
+        "boon": "Dionysus'Aid",
+        "status": "Regular"
+    },
+    "DionysusComboVulnerability": {
+        "god": "Dionysus",
+        "boon": "BlackOut",
+        "status": "Legendary"
+    },
+    "DemeterUpgrade": {
+        "god": "Demeter",
+        "boon": "Demeter",
+        "status": "Regular"
+    },
+    "DemeterWeaponTrait": {
+        "god": "Demeter",
+        "boon": "FrostStrike",
+        "status": "Regular"
+    },
+    "DemeterSecondaryTrait": {
+        "god": "Demeter",
+        "boon": "FrostFlourish",
+        "status": "Regular"
+    },
+    "DemeterRangedTrait": {
+        "god": "Demeter",
+        "boon": "CrystalBeam",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmo_DemeterRangedTrait": {
+        "god": "Demeter",
+        "boon": "IcyFlare",
+        "status": "Regular"
+    },
+    "DemeterRushTrait": {
+        "god": "Demeter",
+        "boon": "MistralDash",
+        "status": "Regular"
+    },
+    "HealingPotencyTrait": {
+        "god": "Demeter",
+        "boon": "NourishedSoul",
+        "status": "Regular"
+    },
+    "HarvestBoonDrop": {
+        "god": "Demeter",
+        "boon": "RareCrop",
+        "status": "Regular"
+    },
+    "\\tHarvestBoonTraitList1": {
+        "god": "Demeter",
+        "boon": "\\t{#PreviousFormat}{!Icons.Bullet}{#PropertyFormat}Picked:\\\\Column190{#UpgradeFormat}{$TooltipData.HarvestBoons[1]}",
+        "status": "Regular"
+    },
+    "\\tHarvestBoonTraitList2": {
+        "god": "Demeter",
+        "boon": "\\t{#PreviousFormat}{!Icons.Bullet}{#PropertyFormat}Picked:\\\\Column190{#UpgradeFormat}{$TooltipData.HarvestBoons[1]}{#PreviousFormat},{#UpgradeFormat}{$TooltipData.HarvestBoons[2]}",
+        "status": "Regular"
+    },
+    "\\tHarvestBoonTraitList3": {
+        "god": "Demeter",
+        "boon": "\\t{#PreviousFormat}{!Icons.Bullet}{#PropertyFormat}Picked:\\\\Column190{#UpgradeFormat}{$TooltipData.HarvestBoons[1]}{#PreviousFormat},{#UpgradeFormat}{$TooltipData.HarvestBoons[2]}{#PreviousFormat},{#UpgradeFormat}{$TooltipData.HarvestBoons[3]}",
+        "status": "Regular"
+    },
+    "CastNovaTrait": {
+        "god": "Demeter",
+        "boon": "SnowBurst",
+        "status": "Regular"
+    },
+    "ZeroAmmoBonusTrait": {
+        "god": "Demeter",
+        "boon": "RavenousWill",
+        "status": "Regular"
+    },
+    "MaximumChillBlast": {
+        "god": "Demeter",
+        "boon": "ArcticBlast",
+        "status": "Regular"
+    },
+    "MaximumChillBonusSlow": {
+        "god": "Demeter",
+        "boon": "KillingFreeze",
+        "status": "Regular"
+    },
+    "DemeterRangedBonusTrait,": {
+        "god": "Demeter",
+        "boon": "GlacialGlare",
+        "status": "Regular"
+    },
+    "DemeterRetaliateTrait,": {
+        "god": "Demeter",
+        "boon": "FrozenTouch",
+        "status": "Regular"
+    },
+    "DemeterShoutTrait": {
+        "god": "Demeter",
+        "boon": "Demeter'sAid",
+        "status": "Regular"
+    },
+    "InstantChillKill": {
+        "god": "Demeter",
+        "boon": "WinterHarvest",
+        "status": "Legendary"
+    },
+    "HermesUpgrade": {
+        "god": "Hermes",
+        "boon": "Hermes",
+        "status": "Regular"
+    },
+    "BonusDashTrait": {
+        "god": "Hermes",
+        "boon": "GreatestReflex",
+        "status": "Regular"
+    },
+    "AmmoReclaimTrait": {
+        "god": "Hermes",
+        "boon": "QuickReload",
+        "status": "Regular"
+    },
+    "RapidCastTrait": {
+        "god": "Hermes",
+        "boon": "FlurryCast",
+        "status": "Regular"
+    },
+    "RushSpeedBoostTrait": {
+        "god": "Hermes",
+        "boon": "HyperSprint",
+        "status": "Regular"
+    },
+    "MoveSpeedTrait": {
+        "god": "Hermes",
+        "boon": "GreaterHaste",
+        "status": "Regular"
+    },
+    "RushRallyTrait": {
+        "god": "Hermes",
+        "boon": "QuickRecovery",
+        "status": "Regular"
+    },
+    "DodgeChanceTrait": {
+        "god": "Hermes",
+        "boon": "GreaterEvasion",
+        "status": "Regular"
+    },
+    "HermesWeaponTrait": {
+        "god": "Hermes",
+        "boon": "SwiftStrike",
+        "status": "Regular"
+    },
+    "HermesSecondaryTrait": {
+        "god": "Hermes",
+        "boon": "SwiftFlourish",
+        "status": "Regular"
+    },
+    "HermesShoutDodge": {
+        "god": "Hermes",
+        "boon": "SecondWind",
+        "status": "Regular"
+    },
+    "AmmoReloadTrait": {
+        "god": "Hermes",
+        "boon": "AutoReload",
+        "status": "Regular"
+    },
+    "RegeneratingSuperTrait": {
+        "god": "Hermes",
+        "boon": "QuickFavor",
+        "status": "Regular"
+    },
+    "ChamberGoldTrait": {
+        "god": "Hermes",
+        "boon": "SideHustle",
+        "status": "Regular"
+    },
+    "GoldPerRoomText": {
+        "god": "Hermes",
+        "boon": "{#CombatTextHighlightFormat}{$TempTextData.TraitName}:{#PreviousFormat}{#UseMoneyFormat}+{$TempTextData.Amount}{!Icons.Currency_Small}",
+        "status": "Regular"
+    },
+    "SpeedDamageTrait": {
+        "god": "Hermes",
+        "boon": "RushDelivery",
+        "status": "Regular"
+    },
+    "MagnetismTrait": {
+        "god": "Hermes",
+        "boon": "GreaterRecall",
+        "status": "Legendary"
+    },
+    "UnstoredAmmoDamageTrait": {
+        "god": "Hermes",
+        "boon": "BadNews",
+        "status": "Legendary"
+    },
+    "TrialUpgrade": {
+        "god": "Chaos",
+        "boon": "Chaos",
+        "status": "Regular"
+    },
+    "MysteryUpgrade": {
+        "god": "Chaos",
+        "boon": "???",
+        "status": "Regular"
+    },
+    "ChaosBlessingFormat": {
+        "god": "Chaos",
+        "boon": "ChaosBlessing/Curse",
+        "status": "Regular"
+    },
+    "ChaosBlessingTrayFormat": {
+        "god": "Chaos",
+        "boon": "{#BoldFormat}{$TooltipData.LastCurseName}{$TooltipData.LastBlessingName}{#PreviousFormat}",
+        "status": "Regular"
+    },
+    "ChaosCombo": {
+        "god": "Chaos",
+        "boon": "{{ChaosCurse}}{{ChaosBlessing}}",
+        "status": "Regular"
+    },
+    "ChaosCurseNoMoneyTrait": {
+        "god": "ChaosCurses",
+        "boon": "Pauper's",
+        "status": "Regular"
+    },
+    "ChaosCurseAmmoUseDelayTrait": {
+        "god": "ChaosCurses",
+        "boon": "Slippery",
+        "status": "Regular"
+    },
+    "ChaosCurseDeathWeaponTrait": {
+        "god": "ChaosCurses",
+        "boon": "Caustic",
+        "status": "Regular"
+    },
+    "ChaosCurseHiddenRoomReward": {
+        "god": "ChaosCurses",
+        "boon": "Enshrouded",
+        "status": "Regular"
+    },
+    "ChaosCurseDamageTrait": {
+        "god": "ChaosCurses",
+        "boon": "Excruciating",
+        "status": "Regular"
+    },
+    "ChaosCurseTrapDamageTrait": {
+        "god": "ChaosCurses",
+        "boon": "Abyssal",
+        "status": "Regular"
+    },
+    "ChaosCurseHealthTrait": {
+        "god": "ChaosCurses",
+        "boon": "Atrophic",
+        "status": "Regular"
+    },
+    "ChaosCurseMoveSpeedTrait": {
+        "god": "ChaosCurses",
+        "boon": "Slothful",
+        "status": "Regular"
+    },
+    "ChaosCurseSpawnTrait": {
+        "god": "ChaosCurses",
+        "boon": "Roiling",
+        "status": "Regular"
+    },
+    "ChaosCurseDashAttackTrait": {
+        "god": "ChaosCurses",
+        "boon": "Stabbing",
+        "status": "Regular"
+    },
+    "ChaosCursePrimaryAttackTrait": {
+        "god": "ChaosCurses",
+        "boon": "Maimed",
+        "status": "Regular"
+    },
+    "ChaosCurseSecondaryAttackTrait": {
+        "god": "ChaosCurses",
+        "boon": "Flayed",
+        "status": "Regular"
+    },
+    "ChaosCurseCastAttackTrait": {
+        "god": "ChaosCurses",
+        "boon": "Addled",
+        "status": "Regular"
+    },
+    "ChaosCurseDashRangeTrait": {
+        "god": "ChaosCurses",
+        "boon": "Halting",
+        "status": "Regular"
+    },
+    "ChaosBlessingMeleeTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Strike",
+        "status": "Regular"
+    },
+    "ChaosBlessingSecondaryTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Flourish",
+        "status": "Regular"
+    },
+    "ChaosBlessingDashAttackTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Lunge",
+        "status": "Regular"
+    },
+    "ChaosBlessingRangedTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Shot",
+        "status": "Regular"
+    },
+    "ChaosBlessingAmmoTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Grasp",
+        "status": "Regular"
+    },
+    "ChaosBlessingMaxHealthTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Soul",
+        "status": "Regular"
+    },
+    "ChaosBlessingBoonRarityTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Favor",
+        "status": "Regular"
+    },
+    "ChaosBlessingMoneyTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Affluence",
+        "status": "Regular"
+    },
+    "ChaosBlessingMetapointTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Eclipse",
+        "status": "Regular"
+    },
+    "ChaosBlessingAlphaStrikeTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Assault",
+        "status": "Regular"
+    },
+    "ChaosBlessingBackstabTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Ambush",
+        "status": "Regular"
+    },
+    "ChaosBlessingExtraChanceTrait": {
+        "god": "ChaosBlessings",
+        "boon": "Defiance",
+        "status": "Legendary"
+    },
+    "SwordHeavySecondStrikeTrait": {
+        "god": "SwordUpgrades",
+        "boon": "WorldSplitter",
+        "status": "Regular"
+    },
+    "SwordTwoComboTrait": {
+        "god": "SwordUpgrades",
+        "boon": "FlurrySlash",
+        "status": "Regular"
+    },
+    "SwordBackstabTrait": {
+        "god": "SwordUpgrades",
+        "boon": "ShadowSlash",
+        "status": "Regular"
+    },
+    "SwordHealthBufferDamageTrait": {
+        "god": "SwordUpgrades",
+        "boon": "BreachingSlash",
+        "status": "Regular"
+    },
+    "SwordSecondaryAreaDamageTrait": {
+        "god": "SwordUpgrades",
+        "boon": "SuperNova",
+        "status": "Regular"
+    },
+    "SwordSecondaryDoubleAttackTrait": {
+        "god": "SwordUpgrades",
+        "boon": "DoubleNova",
+        "status": "Regular"
+    },
+    "SwordDoubleDashAttackTrait": {
+        "god": "SwordUpgrades",
+        "boon": "DoubleEdge",
+        "status": "Regular"
+    },
+    "SwordCriticalTrait": {
+        "god": "SwordUpgrades",
+        "boon": "CruelThrust",
+        "status": "Regular"
+    },
+    "SwordThirdStrikeChargeTrait": {
+        "god": "SwordUpgrades",
+        "boon": "MassiveThrust",
+        "status": "Regular"
+    },
+    "SwordThrustWaveTrait": {
+        "god": "SwordUpgrades",
+        "boon": "PiercingWave",
+        "status": "Regular"
+    },
+    "SwordCursedLifeStealTrait": {
+        "god": "SwordUpgrades",
+        "boon": "CursedSlash",
+        "status": "Regular"
+    },
+    "SwordGoldDamageTrait": {
+        "god": "SwordUpgrades",
+        "boon": "HoardingSlash",
+        "status": "Regular"
+    },
+    "SwordBlinkTrait": {
+        "god": "SwordUpgrades",
+        "boon": "DashNova",
+        "status": "Regular"
+    },
+    "SwordConsecrationBoostTrait": {
+        "god": "SwordUpgrades",
+        "boon": "GreaterConsecration",
+        "status": "Regular"
+    },
+    "SpearReachAttack": {
+        "god": "SpearUpgrades",
+        "boon": "ExtendingJab",
+        "status": "Regular"
+    },
+    "SpearThrowBounce": {
+        "god": "SpearUpgrades",
+        "boon": "ChainSkewer",
+        "status": "Regular"
+    },
+    "SpearThrowPenetrate": {
+        "god": "SpearUpgrades",
+        "boon": "BreachingSkewer",
+        "status": "Regular"
+    },
+    "SpearThrowCritical": {
+        "god": "SpearUpgrades",
+        "boon": "ViciousSkewer",
+        "status": "Regular"
+    },
+    "SpearThrowElectiveCharge": {
+        "god": "SpearUpgrades",
+        "boon": "ChargedSkewer",
+        "status": "Regular"
+    },
+    "SpearThrowExplode": {
+        "god": "SpearUpgrades",
+        "boon": "ExplodingLauncher",
+        "status": "Regular"
+    },
+    "SpearSpinDamageRadius": {
+        "god": "SpearUpgrades",
+        "boon": "MassiveSpin",
+        "status": "Regular"
+    },
+    "SpearSpinChargeLevelTime": {
+        "god": "SpearUpgrades",
+        "boon": "QuickSpin",
+        "status": "Regular"
+    },
+    "SpearAutoAttack": {
+        "god": "SpearUpgrades",
+        "boon": "FlurryJab",
+        "status": "Regular"
+    },
+    "SpearDashMultiStrike": {
+        "god": "SpearUpgrades",
+        "boon": "SerratedPoint",
+        "status": "Regular"
+    },
+    "SpearSpinChargeAreaDamageTrait": {
+        "god": "SpearUpgrades",
+        "boon": "FlaringSpin",
+        "status": "Regular"
+    },
+    "SpearThrowObjectAOETrait": {
+        "god": "SpearUpgrades",
+        "boon": "PulseDriver",
+        "status": "Regular"
+    },
+    "SpearAttackPhalanxTrait": {
+        "god": "SpearUpgrades",
+        "boon": "TripleJab",
+        "status": "Regular"
+    },
+    "ShieldThrowFastTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "DreadFlight",
+        "status": "Regular"
+    },
+    "ShieldThrowCatchExplode": {
+        "god": "ShieldUpgrades",
+        "boon": "ExplosiveReturn",
+        "status": "Regular"
+    },
+    "ShieldBashDamageTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "PulverizingBlow",
+        "status": "Regular"
+    },
+    "ShieldDashAOETrait": {
+        "god": "ShieldUpgrades",
+        "boon": "DashingWallop",
+        "status": "Regular"
+    },
+    "ShieldChargeSpeedTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "SuddenRush",
+        "status": "Regular"
+    },
+    "ShieldPerfectRushTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "MinotaurRush",
+        "status": "Regular"
+    },
+    "ShieldChargeHealthBufferTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "BreachingRush",
+        "status": "Regular"
+    },
+    "ShieldRushProjectileTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "ChargedShot",
+        "status": "Regular"
+    },
+    "ShieldThrowElectiveCharge": {
+        "god": "ShieldUpgrades",
+        "boon": "ChargedFlight",
+        "status": "Regular"
+    },
+    "ShieldThrowEmpowerTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "EmpoweringFlight",
+        "status": "Regular"
+    },
+    "ShieldBlockEmpowerTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "FerociousGuard",
+        "status": "Regular"
+    },
+    "ShieldThrowRushTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "DashingFlight",
+        "status": "Regular"
+    },
+    "SpearSpinTravelDurationTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "WingedSerpent",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmoBoostTrait": {
+        "god": "ShieldUpgrades",
+        "boon": "UnyieldingDefense",
+        "status": "Regular"
+    },
+    "BowLongRangeDamageTrait": {
+        "god": "BowUpgrades",
+        "boon": "SniperShot",
+        "status": "Regular"
+    },
+    "BowTapFireTrait": {
+        "god": "BowUpgrades",
+        "boon": "FlurryShot",
+        "status": "Regular"
+    },
+    "BowPowerShotTrait": {
+        "god": "BowUpgrades",
+        "boon": "PerfectShot",
+        "status": "Regular"
+    },
+    "BowSecondaryBarrageTrait": {
+        "god": "BowUpgrades",
+        "boon": "RelentlessVolley",
+        "status": "Regular"
+    },
+    "BowPenetrationTrait": {
+        "god": "BowUpgrades",
+        "boon": "PiercingVolley",
+        "status": "Regular"
+    },
+    "BowSecondaryFocusedFireTrait": {
+        "god": "BowUpgrades",
+        "boon": "ChargedVolley",
+        "status": "Regular"
+    },
+    "BowTripleShotTrait": {
+        "god": "BowUpgrades",
+        "boon": "TripleShot",
+        "status": "Regular"
+    },
+    "BowDoubleShotTrait": {
+        "god": "BowUpgrades",
+        "boon": "TwinShot",
+        "status": "Regular"
+    },
+    "BowSlowChargeDamageTrait": {
+        "god": "BowUpgrades",
+        "boon": "ExplosiveShot",
+        "status": "Regular"
+    },
+    "BowChainShotTrait": {
+        "god": "BowUpgrades",
+        "boon": "ChainShot",
+        "status": "Regular"
+    },
+    "BowTransitionTapFireTrait": {
+        "god": "BowUpgrades",
+        "boon": "SecondShot",
+        "status": "Regular"
+    },
+    "BowConsecutiveBarrageTrait": {
+        "god": "BowUpgrades",
+        "boon": "ConcentratedVolley",
+        "status": "Regular"
+    },
+    "BowCloseAttackTrait": {
+        "god": "BowUpgrades",
+        "boon": "Point-BlankShot",
+        "status": "Regular"
+    },
+    "BowBondBoostTrait": {
+        "god": "BowUpgrades",
+        "boon": "RepulseShot",
+        "status": "Regular"
+    },
+    "GunMinigunTrait": {
+        "god": "GunUpgrades",
+        "boon": "FlurryFire",
+        "status": "Regular"
+    },
+    "GunInfiniteAmmoTrait": {
+        "god": "GunUpgrades",
+        "boon": "DeltaChamber",
+        "status": "Regular"
+    },
+    "GunArmorPenerationTrait": {
+        "god": "GunUpgrades",
+        "boon": "PiercingFire",
+        "status": "Regular"
+    },
+    "GunGrenadeFastTrait": {
+        "god": "GunUpgrades",
+        "boon": "TripleBomb",
+        "status": "Regular"
+    },
+    "GunShotgunTrait": {
+        "god": "GunUpgrades",
+        "boon": "SpreadFire",
+        "status": "Regular"
+    },
+    "GunConsecutiveFireTrait": {
+        "god": "GunUpgrades",
+        "boon": "ConcentratedFire",
+        "status": "Regular"
+    },
+    "GunExplodingSecondaryTrait": {
+        "god": "GunUpgrades",
+        "boon": "RocketBomb",
+        "status": "Regular"
+    },
+    "GunSlowGrenade": {
+        "god": "GunUpgrades",
+        "boon": "TargetingSystem",
+        "status": "Regular"
+    },
+    "GunGrenadeClusterTrait": {
+        "god": "GunUpgrades",
+        "boon": "ClusterBomb",
+        "status": "Regular"
+    },
+    "GunGrenadeDropTrait": {
+        "god": "GunUpgrades",
+        "boon": "HazardBomb",
+        "status": "Regular"
+    },
+    "GunChainShotTrait": {
+        "god": "GunUpgrades",
+        "boon": "RicochetFire",
+        "status": "Regular"
+    },
+    "GunEmptyClipBlastTrait": {
+        "god": "GunUpgrades",
+        "boon": "ExplosiveReload",
+        "status": "Regular"
+    },
+    "GunHomingBulletTrait": {
+        "god": "GunUpgrades",
+        "boon": "SeekingFire",
+        "status": "Regular"
+    },
+    "GunLoadedGrenadeBoostTrait": {
+        "god": "GunUpgrades",
+        "boon": "GreaterInferno",
+        "status": "Regular"
+    },
+    "GunLoadedGrenadeLaserTrait": {
+        "god": "GunUpgrades",
+        "boon": "ConcentratedBeam",
+        "status": "Regular"
+    },
+    "GunLoadedGrenadeSpeedTrait": {
+        "god": "GunUpgrades",
+        "boon": "FlashFire",
+        "status": "Regular"
+    },
+    "GunLoadedGrenadeWideTrait": {
+        "god": "GunUpgrades",
+        "boon": "TripleBeam",
+        "status": "Regular"
+    },
+    "GunLoadedGrenadeInfiniteAmmoTrait": {
+        "god": "GunUpgrades",
+        "boon": "EternalChamber",
+        "status": "Regular"
+    },
+    "FistReachAttackTrait": {
+        "god": "FistUpgrades",
+        "boon": "LongKnuckle",
+        "status": "Regular"
+    },
+    "FistAttackFinisherTrait": {
+        "god": "FistUpgrades",
+        "boon": "RollingKnuckle",
+        "status": "Regular"
+    },
+    "FistConsecutiveAttackTrait": {
+        "god": "FistUpgrades",
+        "boon": "ConcentratedKnuckle",
+        "status": "Regular"
+    },
+    "FistDashAttackHealthBufferTrait": {
+        "god": "FistUpgrades",
+        "boon": "BreachingCross",
+        "status": "Regular"
+    },
+    "FistDoubleDashSpecialTrait": {
+        "god": "FistUpgrades",
+        "boon": "ExplosiveUpper",
+        "status": "Regular"
+    },
+    "FistTeleportSpecialTrait": {
+        "god": "FistUpgrades",
+        "boon": "RushKick",
+        "status": "Regular"
+    },
+    "FistChargeSpecialTrait": {
+        "god": "FistUpgrades",
+        "boon": "FlyingCutter",
+        "status": "Regular"
+    },
+    "FistKillTrait": {
+        "god": "FistUpgrades",
+        "boon": "DrainingCutter",
+        "status": "Regular"
+    },
+    "FistSpecialLandTrait": {
+        "god": "FistUpgrades",
+        "boon": "QuakeCutter",
+        "status": "Regular"
+    },
+    "FistSpecialFireballTrait": {
+        "god": "FistUpgrades",
+        "boon": "KineticLauncher",
+        "status": "Regular"
+    },
+    "FistHeavyAttackTrait": {
+        "god": "FistUpgrades",
+        "boon": "HeavyKnuckle",
+        "status": "Regular"
+    },
+    "FistAttackDefenseTrait": {
+        "god": "FistUpgrades",
+        "boon": "ColossusKnuckle",
+        "status": "Regular"
+    },
+    "FistDetonateBoostTrait": {
+        "god": "FistUpgrades",
+        "boon": "RendingClaws",
+        "status": "Regular"
+    },
+    "WeaponUpgradeScreen_Header": {
+        "god": "WeaponEnchantments",
+        "boon": "Aspectsof",
+        "status": "Regular"
+    },
+    "UnknownUpgrade": {
+        "god": "WeaponEnchantments",
+        "boon": "Aspectof???",
+        "status": "Regular"
+    },
+    "UnknownLockedAspect": {
+        "god": "WeaponEnchantments",
+        "boon": "Aspectof???",
+        "status": "Regular"
+    },
+    "UnknownUpgradeFistWeapon01": {
+        "god": "WeaponEnchantments",
+        "boon": "Aspectof???",
+        "status": "Regular"
+    },
+    "UnknownUpgradeFistWeapon02": {
+        "god": "WeaponEnchantments",
+        "boon": "Aspectof???",
+        "status": "Regular"
+    },
+    "UseWeaponKit_Equipped": {
+        "god": "WeaponEnchantments",
+        "boon": "{I}Reveal",
+        "status": "Regular"
+    },
+    "WeaponSelectPanel_Title": {
+        "god": "WeaponEnchantments",
+        "boon": "{#BoldFormatGraft}VitalStats",
+        "status": "Regular"
+    },
+    "WeaponSelectPanel_Left": {
+        "god": "WeaponEnchantments",
+        "boon": "FoesSlain:\\\\n\\\\nSuccessfulEscapes:\\\\n\\\\nFastestTime:\\\\n\\\\nHighestHeat:",
+        "status": "Regular"
+    },
+    "WeaponSelectPanel_Right": {
+        "god": "WeaponEnchantments",
+        "boon": "{#VitalStatsFormat}{$TempTextData.WeaponKills}\\\\n\\\\n{#VitalStatsFormat}{$TempTextData.TimesCleared}\\\\n\\\\n{#VitalStatsFormat}{$TempTextData.RecordClearTime}\\\\n\\\\n{#VitalStatsFormat}{$TempTextData.RecordShrinePoints}{!Icons.ShrinePointSmall_Active}",
+        "status": "Regular"
+    },
+    "WeaponSelectPanel_Right_Alt": {
+        "god": "WeaponEnchantments",
+        "boon": "{#VitalStatsFormat}{$TempTextData.WeaponKills}\\\\n\\\\n{#VitalStatsFormat}{$TempTextData.TimesCleared}\\\\n\\\\n{#VitalStatsFormat}{$TempTextData.RecordClearTime}\\\\n\\\\n{#VitalStatsFormat}{$TempTextData.RecordShrinePoints}",
+        "status": "Regular"
+    },
+    "NoClears": {
+        "god": "WeaponEnchantments",
+        "boon": "{#DeemphasizedFormat}N{!Icons.Slash}A",
+        "status": "Regular"
+    },
+    "NoWeaponKills": {
+        "god": "WeaponEnchantments",
+        "boon": "{#DeemphasizedFormat}N{!Icons.Slash}A",
+        "status": "Regular"
+    },
+    "NoClearTime": {
+        "god": "WeaponEnchantments",
+        "boon": "{#DeemphasizedFormat}N{!Icons.Slash}A",
+        "status": "Regular"
+    },
+    "NoHeatClear": {
+        "god": "WeaponEnchantments",
+        "boon": "{#DeemphasizedFormat}N{!Icons.Slash}A",
+        "status": "Regular"
+    },
+    "NothingEquipped": {
+        "god": "WeaponEnchantments",
+        "boon": "Nothing",
+        "status": "Regular"
+    },
+    "Shrine_Uncleared": {
+        "god": "WeaponEnchantments",
+        "boon": "{!Icons.StarEmpty}",
+        "status": "Regular"
+    },
+    "Shrine_Cleared": {
+        "god": "WeaponEnchantments",
+        "boon": "{!Icons.StarFull}",
+        "status": "Regular"
+    },
+    "MaxUpgrade": {
+        "god": "WeaponEnchantments",
+        "boon": "Max",
+        "status": "Regular"
+    },
+    "SwordWeapon_Unequipped": {
+        "god": "SwordEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "SwordBaseUpgradeTrait": {
+        "god": "SwordEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "SwordCriticalParryTrait": {
+        "god": "SwordEnchantments",
+        "boon": "AspectofNemesis",
+        "status": "Regular"
+    },
+    "DislodgeAmmoTrait": {
+        "god": "SwordEnchantments",
+        "boon": "AspectofPoseidon",
+        "status": "Regular"
+    },
+    "SwordConsecrationTrait": {
+        "god": "SwordEnchantments",
+        "boon": "AspectofArthur",
+        "status": "Regular"
+    },
+    "SpearWeapon_Unequipped": {
+        "god": "SpearEnchantment",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "SpearBaseUpgradeTrait": {
+        "god": "SpearEnchantment",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "SpearTeleportTrait": {
+        "god": "SpearEnchantment",
+        "boon": "AspectofAchilles",
+        "status": "Regular"
+    },
+    "SpearWeaveTrait": {
+        "god": "SpearEnchantment",
+        "boon": "AspectofHades",
+        "status": "Regular"
+    },
+    "SpearSpinTravel": {
+        "god": "SpearEnchantment",
+        "boon": "AspectofGuanYu",
+        "status": "Regular"
+    },
+    "ShieldWeapon_Unequipped": {
+        "god": "ShieldEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "ShieldBaseUpgradeTrait": {
+        "god": "ShieldEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "ShieldTwoShieldTrait": {
+        "god": "ShieldEnchantments",
+        "boon": "AspectofZeus",
+        "status": "Regular"
+    },
+    "ShieldRushBonusProjectileTrait": {
+        "god": "ShieldEnchantments",
+        "boon": "AspectofChaos",
+        "status": "Regular"
+    },
+    "ShieldLoadAmmoTrait": {
+        "god": "ShieldEnchantments",
+        "boon": "AspectofBeowulf",
+        "status": "Regular"
+    },
+    "BowWeapon_Unequipped": {
+        "god": "BowAspects",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "BowBaseUpgradeTrait": {
+        "god": "BowAspects",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "BowLoadAmmoTrait": {
+        "god": "BowAspects",
+        "boon": "AspectofHera",
+        "status": "Regular"
+    },
+    "CombatText_BowLoadAmmoTrait_AmmoLoaded": {
+        "god": "BowAspects",
+        "boon": "+1{!Icons.Ammo}Loaded!",
+        "status": "Regular"
+    },
+    "CombatText_MaxLoaded": {
+        "god": "BowAspects",
+        "boon": "Max{!Icons.Ammo}Loaded!",
+        "status": "Regular"
+    },
+    "BowMarkHomingTrait": {
+        "god": "BowAspects",
+        "boon": "AspectofChiron",
+        "status": "Regular"
+    },
+    "BowBondTrait": {
+        "god": "BowAspects",
+        "boon": "AspectofRama",
+        "status": "Regular"
+    },
+    "FistWeapon_Unequipped": {
+        "god": "FistEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "FistBaseUpgradeTrait": {
+        "god": "FistEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "FistVacuumTrait": {
+        "god": "FistEnchantments",
+        "boon": "AspectofTalos",
+        "status": "Regular"
+    },
+    "FistWeaveTrait": {
+        "god": "FistEnchantments",
+        "boon": "AspectofDemeter",
+        "status": "Regular"
+    },
+    "FistDetonateTrait": {
+        "god": "FistEnchantments",
+        "boon": "AspectofGilgamesh",
+        "status": "Regular"
+    },
+    "GunWeapon_Unequipped": {
+        "god": "GunEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "GunBaseUpgradeTrait": {
+        "god": "GunEnchantments",
+        "boon": "AspectofZagreus",
+        "status": "Regular"
+    },
+    "GunManualReloadTrait": {
+        "god": "GunEnchantments",
+        "boon": "AspectofHestia",
+        "status": "Regular"
+    },
+    "GunGrenadeSelfEmpowerTrait": {
+        "god": "GunEnchantments",
+        "boon": "AspectofEris",
+        "status": "Regular"
+    },
+    "GunLoadedGrenadeTrait": {
+        "god": "GunEnchantments",
+        "boon": "AspectofLucifer",
+        "status": "Regular"
+    },
+    "UseWell_Unlocked": {
+        "god": "Shop",
+        "boon": "{I}Shop",
+        "status": "Regular"
+    },
+    "UseWell_Locked": {
+        "god": "Shop",
+        "boon": "{#UseTextDisabledFormat}Locked",
+        "status": "Regular"
+    },
+    "UseStore": {
+        "god": "Shop",
+        "boon": "{I}Shop",
+        "status": "Regular"
+    },
+    "Store_CosmeticUnlocked_Title": {
+        "god": "Shop",
+        "boon": "NewBedroomDecor",
+        "status": "Regular"
+    },
+    "Store_CosmeticUnlocked_Subtitle": {
+        "god": "Shop",
+        "boon": "{$TempTextData.Name}",
+        "status": "Regular"
+    },
+    "Store_Title": {
+        "god": "Shop",
+        "boon": "WellofCharon",
+        "status": "Regular"
+    },
+    "Store_Hint": {
+        "god": "Shop",
+        "boon": "upondemise,all{!Icons.Currency_Small}returnedtocharon.allsalesarefinal.",
+        "status": "Regular"
+    },
+    "LastStandDrop": {
+        "god": "Shop",
+        "boon": "KissofStyx",
+        "status": "Regular"
+    },
+    "TemporaryLastStandHealTrait": {
+        "god": "Shop",
+        "boon": "TouchofStyx",
+        "status": "Regular"
+    },
+    "UpgradedTemporaryLastStandHealTrait": {
+        "god": "Shop",
+        "boon": "TouchofStyxDark",
+        "status": "Regular"
+    },
+    "BuffExtraChance": {
+        "god": "Shop",
+        "boon": "KissofStyxPremium",
+        "status": "Regular"
+    },
+    "BuffExtraChanceAlt": {
+        "god": "Shop",
+        "boon": "TouchofStyxDark",
+        "status": "Regular"
+    },
+    "MetaDropRange": {
+        "god": "Shop",
+        "boon": "TingeofErebus",
+        "status": "Regular"
+    },
+    "HealDropRange": {
+        "god": "Shop",
+        "boon": "LifeEssence",
+        "status": "Regular"
+    },
+    "HealDropRange_Reduced": {
+        "god": "Shop",
+        "boon": "LifeEssence",
+        "status": "Regular"
+    },
+    "GemDropRange": {
+        "god": "Shop",
+        "boon": "Gaea'sTreasure",
+        "status": "Regular"
+    },
+    "EmptyMaxHealthDrop": {
+        "god": "Shop",
+        "boon": "CentaurSoul",
+        "status": "Regular"
+    },
+    "EmptyMaxHealthDrop_Reduced": {
+        "god": "Shop",
+        "boon": "CentaurSoul",
+        "status": "Regular"
+    },
+    "DamageSelfDrop": {
+        "god": "Shop",
+        "boon": "PriceofMidas",
+        "status": "Regular"
+    },
+    "TemporaryImprovedWeaponTrait": {
+        "god": "Shop",
+        "boon": "CyclopsJerky",
+        "status": "Regular"
+    },
+    "TemporaryImprovedWeaponTrait_Patroclus": {
+        "god": "Shop",
+        "boon": "CyclopsJerkySelect",
+        "status": "Regular"
+    },
+    "BuffWeapon": {
+        "god": "Shop",
+        "boon": "CyclopsJerkySelect",
+        "status": "Regular"
+    },
+    "TemporaryWeaponLifeOnKillTrait": {
+        "god": "Shop",
+        "boon": "EyeofLamia",
+        "status": "Regular"
+    },
+    "TemporaryMoreAmmoTrait": {
+        "god": "Shop",
+        "boon": "PrometheusStone",
+        "status": "Regular"
+    },
+    "TemporaryImprovedRangedTrait": {
+        "god": "Shop",
+        "boon": "BraidofAtlas",
+        "status": "Regular"
+    },
+    "TemporaryDoorHealTrait": {
+        "god": "Shop",
+        "boon": "HydraLite",
+        "status": "Regular"
+    },
+    "TemporaryDoorHealTrait_Reduced": {
+        "god": "Shop",
+        "boon": "HydraLite",
+        "status": "Regular"
+    },
+    "TemporaryDoorHealTrait_Patroclus": {
+        "god": "Shop",
+        "boon": "HydraLiteGold",
+        "status": "Regular"
+    },
+    "BuffHealing": {
+        "god": "Shop",
+        "boon": "HydraLiteGold",
+        "status": "Regular"
+    },
+    "TemporaryForcedChallengeSwitchTrait": {
+        "god": "Shop",
+        "boon": "TroveTracker",
+        "status": "Regular"
+    },
+    "TemporaryForcedSecretDoorTrait": {
+        "god": "Shop",
+        "boon": "LightofIxion",
+        "status": "Regular"
+    },
+    "TemporaryMoveSpeedTrait": {
+        "god": "Shop",
+        "boon": "IgnitedIchor",
+        "status": "Regular"
+    },
+    "TemporaryBoonRarityTrait": {
+        "god": "Shop",
+        "boon": "YarnofAriadne",
+        "status": "Regular"
+    },
+    "RandomStoreItem": {
+        "god": "Shop",
+        "boon": "FatefulTwist",
+        "status": "Regular"
+    },
+    "TemporaryImprovedSecondaryTrait": {
+        "god": "Shop",
+        "boon": "ChimaeraJerky",
+        "status": "Regular"
+    },
+    "TemporaryBackstabTrait": {
+        "god": "Shop",
+        "boon": "NemesisCrest",
+        "status": "Regular"
+    },
+    "TemporaryAlphaStrikeTrait": {
+        "god": "Shop",
+        "boon": "ErisBangle",
+        "status": "Regular"
+    },
+    "TemporaryArmorDamageTrait": {
+        "god": "Shop",
+        "boon": "NailofTalos",
+        "status": "Regular"
+    },
+    "TemporaryPreloadSuperGenerationTrait": {
+        "god": "Shop",
+        "boon": "AetherNet",
+        "status": "Regular"
+    },
+    "TemporaryImprovedTrapDamageTrait": {
+        "god": "Shop",
+        "boon": "StygianShard",
+        "status": "Regular"
+    },
+    "TemporaryBlockExplodingChariotsTrait": {
+        "god": "Shop",
+        "boon": "FlameWheelsRelease",
+        "status": "Regular"
+    },
+    "TemporaryForcedFishingPointTrait": {
+        "god": "Shop",
+        "boon": "SkeletalLure",
+        "status": "Regular"
+    },
+    "KeepsakeChargeDrop": {
+        "god": "Shop",
+        "boon": "NightSpindle",
+        "status": "Regular"
+    },
+    "ReincarnationTrait": {
+        "god": "Keepsake",
+        "boon": "LuckyTooth",
+        "status": "Regular"
+    },
+    "BackstabAlphaStrikeTrait": {
+        "god": "Keepsake",
+        "boon": "BlackShawl",
+        "status": "Regular"
+    },
+    "MetaPointHealTrait": {
+        "god": "Keepsake",
+        "boon": "AbandonedShawl",
+        "status": "Regular"
+    },
+    "ShopDurationTrait": {
+        "god": "Keepsake",
+        "boon": "BoneHourglass",
+        "status": "Regular"
+    },
+    "MaxHealthKeepsakeTrait": {
+        "god": "Keepsake",
+        "boon": "OldSpikedCollar",
+        "status": "Regular"
+    },
+    "DirectionalArmorTrait": {
+        "god": "Keepsake",
+        "boon": "MyrmidonBracer",
+        "status": "Regular"
+    },
+    "ShieldAfterHitTrait": {
+        "god": "Keepsake",
+        "boon": "BrokenSpearpoint",
+        "status": "Regular"
+    },
+    "VanillaTrait": {
+        "god": "Keepsake",
+        "boon": "ShatteredShackle",
+        "status": "Regular"
+    },
+    "MegaRubbleTrait": {
+        "god": "Keepsake",
+        "boon": "AbandonedShackle",
+        "status": "Regular"
+    },
+    "DistanceDamageTrait": {
+        "god": "Keepsake",
+        "boon": "DistantMemory",
+        "status": "Regular"
+    },
+    "LowHealthDamageTrait": {
+        "god": "Keepsake",
+        "boon": "SkullEarring",
+        "status": "Regular"
+    },
+    "LifeOnUrnTrait": {
+        "god": "Keepsake",
+        "boon": "HarpyFeatherDuster",
+        "status": "Regular"
+    },
+    "BonusMoneyTrait": {
+        "god": "Keepsake",
+        "boon": "ChthonicCoinPurse",
+        "status": "Regular"
+    },
+    "BonusMoneyTrait_Dead": {
+        "god": "Keepsake",
+        "boon": "ChthonicCoinPurse",
+        "status": "Regular"
+    },
+    "BonusMoneyTrait_Tray": {
+        "god": "Keepsake",
+        "boon": "ChthonicCoinPurse",
+        "status": "Regular"
+    },
+    "ForceAthenaBoonTrait": {
+        "god": "Keepsake",
+        "boon": "OwlPendant",
+        "status": "Regular"
+    },
+    "ForceAthenaBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "OwlPendant",
+        "status": "Regular"
+    },
+    "ForceAphroditeBoonTrait": {
+        "god": "Keepsake",
+        "boon": "EternalRose",
+        "status": "Regular"
+    },
+    "ForceAphroditeBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "EternalRose",
+        "status": "Regular"
+    },
+    "ForceArtemisBoonTrait": {
+        "god": "Keepsake",
+        "boon": "AdamantArrowhead",
+        "status": "Regular"
+    },
+    "ForceArtemisBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "AdamantArrowhead",
+        "status": "Regular"
+    },
+    "ForceZeusBoonTrait": {
+        "god": "Keepsake",
+        "boon": "ThunderSignet",
+        "status": "Regular"
+    },
+    "ForceZeusBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "ThunderSignet",
+        "status": "Regular"
+    },
+    "ForcePoseidonBoonTrait": {
+        "god": "Keepsake",
+        "boon": "ConchShell",
+        "status": "Regular"
+    },
+    "ForcePoseidonBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "ConchShell",
+        "status": "Regular"
+    },
+    "ForceAresBoonTrait": {
+        "god": "Keepsake",
+        "boon": "Blood-filledVial",
+        "status": "Regular"
+    },
+    "ForceAresBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "Blood-filledVial",
+        "status": "Regular"
+    },
+    "ForceDionysusBoonTrait": {
+        "god": "Keepsake",
+        "boon": "OverflowingCup",
+        "status": "Regular"
+    },
+    "ForceDionysusBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "OverflowingCup",
+        "status": "Regular"
+    },
+    "ForceDemeterBoonTrait": {
+        "god": "Keepsake",
+        "boon": "FrostbittenHorn",
+        "status": "Regular"
+    },
+    "ForceDemeterBoonTrait_Inactive": {
+        "god": "Keepsake",
+        "boon": "FrostbittenHorn",
+        "status": "Regular"
+    },
+    "ChaosBoonTrait": {
+        "god": "Keepsake",
+        "boon": "CosmicEgg",
+        "status": "Regular"
+    },
+    "PerfectClearDamageBonusTrait": {
+        "god": "Keepsake",
+        "boon": "PiercedButterfly",
+        "status": "Regular"
+    },
+    "PerfectClearDamageBonusTrait_Dead": {
+        "god": "Keepsake",
+        "boon": "PiercedButterfly",
+        "status": "Regular"
+    },
+    "PerfectClearDamageBonusTrait_Tray": {
+        "god": "Keepsake",
+        "boon": "PiercedButterfly",
+        "status": "Regular"
+    },
+    "FastClearDodgeBonusTrait": {
+        "god": "Keepsake",
+        "boon": "LambentPlume",
+        "status": "Regular"
+    },
+    "FastClearDodgeBonusTrait_Dead": {
+        "god": "Keepsake",
+        "boon": "LambentPlume",
+        "status": "Regular"
+    },
+    "FastClearDodgeBonusTrait_Tray": {
+        "god": "Keepsake",
+        "boon": "LambentPlume",
+        "status": "Regular"
+    },
+    "ShieldBossTrait": {
+        "god": "Keepsake",
+        "boon": "EvergreenAcorn",
+        "status": "Regular"
+    },
+    "ShieldBossTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "EvergreenAcorn",
+        "status": "Regular"
+    },
+    "ChamberStackTrait": {
+        "god": "Keepsake",
+        "boon": "PomBlossom",
+        "status": "Regular"
+    },
+    "HadesShoutKeepsake": {
+        "god": "Keepsake",
+        "boon": "SigiloftheDead",
+        "status": "Regular"
+    },
+    "HadesShoutTrait": {
+        "god": "Keepsake",
+        "boon": "Hades'Aid",
+        "status": "Regular"
+    },
+    "FuryAssistTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "CompanionBattie",
+        "status": "Legendary"
+    },
+    "FuryAssistTrait_Delta": {
+        "god": "Keepsake",
+        "boon": "CompanionBattie",
+        "status": "Legendary"
+    },
+    "FuryAssistTrait": {
+        "god": "Keepsake",
+        "boon": "CompanionBattie",
+        "status": "Legendary"
+    },
+    "ThanatosAssistTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "CompanionMort",
+        "status": "Legendary"
+    },
+    "ThanatosAssistTrait_Delta": {
+        "god": "Keepsake",
+        "boon": "CompanionMort",
+        "status": "Legendary"
+    },
+    "ThanatosAssistTrait": {
+        "god": "Keepsake",
+        "boon": "CompanionMort",
+        "status": "Legendary"
+    },
+    "SisyphusAssistTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "CompanionShady",
+        "status": "Legendary"
+    },
+    "SisyphusAssistTrait_Delta": {
+        "god": "Keepsake",
+        "boon": "CompanionShady",
+        "status": "Legendary"
+    },
+    "SisyphusAssistTrait": {
+        "god": "Keepsake",
+        "boon": "CompanionShady",
+        "status": "Legendary"
+    },
+    "SkellyAssistTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "CompanionRib",
+        "status": "Legendary"
+    },
+    "SkellyAssistTrait_Delta": {
+        "god": "Keepsake",
+        "boon": "CompanionRib",
+        "status": "Legendary"
+    },
+    "SkellyAssistTrait": {
+        "god": "Keepsake",
+        "boon": "CompanionRib",
+        "status": "Legendary"
+    },
+    "DusaAssistTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "CompanionFidi",
+        "status": "Legendary"
+    },
+    "DusaAssistTrait_Delta": {
+        "god": "Keepsake",
+        "boon": "CompanionFidi",
+        "status": "Legendary"
+    },
+    "DusaAssistTrait": {
+        "god": "Keepsake",
+        "boon": "CompanionFidi",
+        "status": "Legendary"
+    },
+    "AchillesPatroclusAssistTrait_Rack": {
+        "god": "Keepsake",
+        "boon": "CompanionAntos",
+        "status": "Legendary"
+    },
+    "AchillesPatroclusAssistTrait_Delta": {
+        "god": "Keepsake",
+        "boon": "CompanionAntos",
+        "status": "Legendary"
+    },
+    "AchillesPatroclusAssistTrait": {
+        "god": "Keepsake",
+        "boon": "CompanionAntos",
+        "status": "Legendary"
+    }
+}
